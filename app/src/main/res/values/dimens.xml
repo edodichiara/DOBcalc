@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //string
+    <dimen name="tv_text">25sp</dimen>
+    <dimen name="tv_text_small">20sp</dimen>
+
+    //height
+    <dimen name="tv_margin_top">16dp</dimen>
+    <dimen name="tv_padding">10dp</dimen>
+    <dimen name="tv_text_big">30sp</dimen>
+
+</resources>
