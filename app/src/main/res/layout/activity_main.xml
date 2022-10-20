@@ -58,7 +58,8 @@
         android:layout_marginTop="@dimen/tv_margin_top"
         android:textSize="@dimen/tv_text_small"
         android:textStyle="bold"
-        tools:text="19/10/2022" />
+        tools:text="19/10/2022"
+        android:text="@string/tv_title_4"/>
 
     <TextView
         android:id="@+id/tv_title_5"

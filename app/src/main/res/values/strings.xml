@@ -1,12 +1,16 @@
 <resources>
+    //App Name
     <string name="app_name">Age In Minutes</string>
+
     //Text View
     <string name="tv_title_1">CALCULATE YOUR</string>
     <string name="tv_title_2">AGE</string>
     <string name="tv_title_3">IN MINUTES</string>
+    <string name="tv_title_4">%d/%d/%d</string>
     <string name="tv_title_5">Selected Date</string>
+    <string name="tv_title_7">In minutes till date</string>
+
 
     //Button
     <string name="btn_activity_main">SELECT DATE</string>
-    <string name="tv_title_7">In minutes till date</string>
 </resources>
